@@ -1,6 +1,6 @@
 <?php
 
-namespace DaigoxCom\ArrayManager;
+namespace Daigox\ArrayManager;
 
 class ArrayCollection
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace DaigoxCom\ArrayManager;
+namespace Daigox\ArrayManager;
 
 use ArgumentCountError;
 use ArrayAccess;
