@@ -1,0 +1,18 @@
+{
+    "name": "daigox-com/array-manager",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DaigoxCom\\ArrayManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "daigox-com",
+            "email": "daigox.official@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
